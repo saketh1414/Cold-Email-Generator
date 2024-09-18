@@ -6,7 +6,7 @@
 4)the model produces the cold email giving the links to saaki.ai's portfolio in required software field, and showing ability of saaki.ai.    
 
 
-INSTRUCTIONS:
+INSTRUCTIONS:   
 1)create your conda virtural environment venv.   
 2)activate venv.    
 3)install all the packages present in requirements.txt    
