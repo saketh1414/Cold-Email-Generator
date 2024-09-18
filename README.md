@@ -16,3 +16,6 @@ INSTRUCTIONS:
 6)a default link is given-this may not work in future as the job posting may get removed-so use your own link.   
 7)go to any job application page-in careers of any company-copy the url and paste it in our streamlit website, then run-produces the cold email.   
 8)some suggested companies for job application urls-(apple,nike,google)
+
+See the video below for working...   
+https://drive.google.com/file/d/1ep3R8NRJTAr91aXq-BCs1EEt0-grraDv/view?usp=sharing
